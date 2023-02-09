@@ -22,16 +22,27 @@ check its key to success.
 There are 12 columns in the dataset
 
 Show_id - Unique Id for movies
+
 Type - shows whether movie or TV show
+
 Title - title of the movie
+
 Director - name of the Director
+
 Cast - Actor and Actress name
+
 Country - country where the movie was shot
+
 Date_added - when movie was added in netflix
+
 Release_year - when movie was released
+
 Rating - rating for the movie
+
 Duration - hours of the movie
+
 Genres - shows the kind of movie
+
 Description - Explains shortly about the movie
 
 Algorithms : Matrix Factorization, reinforcement learning, neural network
