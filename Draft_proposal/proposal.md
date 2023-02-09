@@ -1,7 +1,11 @@
 ***Capstone Project***
+
 **Netflix Recommender System**
+
 Author: Mercy Subramani
+
 Course: DATA 606
+
 Instructor: Dr.Chaojie Wang
 
 
