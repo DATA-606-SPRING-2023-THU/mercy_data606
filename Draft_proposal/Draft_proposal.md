@@ -51,7 +51,6 @@ Genres - shows the kind of movie
 
 Description - Explains shortly about the movie
 
-**Algorithms** : I am planning to analyze Matrix Factorization, reinforcement learning, neural network
 
 **1.What is your issue of interest ?**
 
