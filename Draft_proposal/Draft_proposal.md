@@ -82,9 +82,9 @@ I will analyze more than 5 units like ratings, directors, country, genre, Actors
 
 I am planning to use
 
-   i) KNN
+   i) KNN clustering
    
-   ii) SVD 
+   ii) SVD matrix factorization
    
 **7. What outcomes do you intend to achieve ?**
 
