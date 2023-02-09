@@ -1,4 +1,4 @@
-***Capstone Project***
+****Capstone Project****
 
 **Netflix Recommender System**
 
@@ -49,6 +49,6 @@ Genres - shows the kind of movie
 
 Description - Explains shortly about the movie
 
-Algorithms : Matrix Factorization, reinforcement learning, neural network
+**Algorithms** : Matrix Factorization, reinforcement learning, neural network
 
 These are the algorithms that I am going to use to analyze netflix recommendation system. 
