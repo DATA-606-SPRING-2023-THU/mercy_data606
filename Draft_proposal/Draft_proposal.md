@@ -1,4 +1,4 @@
-****Capstone Project****
+**Capstone Project**
 
 **Netflix Recommender System**
 
