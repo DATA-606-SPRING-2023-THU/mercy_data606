@@ -1,6 +1,6 @@
 # Capstone Project
 
-## Netflix Recommendation System**
+## Netflix Recommendation System
 
 Author: Mercy Subramani
 
@@ -18,7 +18,7 @@ of its unique algorithm. It is the key player of the success of netflix which ke
 There are so many entertaining websites in this world. For example, Amazon is a platform for different fields like AWS, prime video, Amazon music, shopping etc.
 But Netflix streams only movies and tv shows with full customer satifaction and this got my attention. I am too eager to analyze the netflix recommendation engine and to check its key to success.
 
-**Dataset** : My dataset was taken from DataWorld.com
+**Dataset** : My dataset was taken from DataWorld
 
 **Dataset link** : https://data.world/bshen10921/netflix
 
