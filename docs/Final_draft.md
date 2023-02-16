@@ -66,15 +66,21 @@ If they focus on other language movies widely than English, they can earn more m
 **Unit of analyze**
 
 •	ratings
+
 •	directors
+
 •	country
+
 •	genre
+
 •	actors
 
 **Techniques/models**
 
 •	KNN clustering
+
 •	svd matrix factorizatoion
+
 •	xgboost
 
 **outcomes**
