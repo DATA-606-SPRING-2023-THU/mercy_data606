@@ -83,6 +83,8 @@ I am planning to use
    
    ii) SVD matrix factorization
    
+   iii) XGBoost
+   
 **7. What outcomes do you intend to achieve ?**
 
 I intend to build a good recommendation system. And analyze the different ML models and get the best working model for this recommendation system.
