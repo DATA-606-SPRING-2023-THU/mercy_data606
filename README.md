@@ -78,3 +78,7 @@ But Netflix streams only movies and tv shows with full customer satifaction and 
 •	Naive Bayes
 
 •	Cosine similarity
+
+**Deployment**
+
+Deployed the models using Streamlit
