@@ -56,12 +56,6 @@ But Netflix streams only movies and tv shows with full customer satifaction and 
 
 •	Description - Explains shortly about the movie
 
-**Imprtance of issue**
-
-Eventhough they have the best recommendation system in the world, still there are so many great movies are missing in netflix.
-For example, I dont prefer netflix to watch my native language movies because netflix 
-don't have many South Indian films. Hence I needed to find out how their system recommends movies and tv shows. 
-If they focus on other language movies widely than English, they can earn more money and people will get to watch more movies in netflix.
 
 **Unit of analyze**
 
@@ -79,9 +73,9 @@ If they focus on other language movies widely than English, they can earn more m
 
 •	KNN clustering
 
-•	svd matrix factorizatoion
+•	Naive Bayes
 
-•	xgboost
+•	Cosine similarity
 
 **outcomes**
 
