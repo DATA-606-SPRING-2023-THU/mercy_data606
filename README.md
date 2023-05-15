@@ -63,17 +63,17 @@ But Netflix streams only movies and tv shows with full customer satifaction and 
 
 **Methodology**
 
- 1) Cleaned data and Performed EDA to analyze the dataset
+1) Cleaned data and Performed EDA to analyze the dataset
 
- 2) Preprocessed data using Stemming, Vectorization and Tokenization techniques
+2) Preprocessed data using Stemming, Vectorization and Tokenization techniques
 
- 3) Performed Cosine similarity technique to find similarities between movies 
+3) Performed Cosine similarity technique to find similarities between movies 
 
- 4) Done Sentiment Analysis on reviews by scraping google to analyze the sentiment of user to movies
+4) Done Sentiment Analysis on reviews by scraping google to analyze the sentiment of user to movies
 
- 5) Performed some Machine learning algorithm using sentiment analysis to find the accuracy
+5) Performed some Machine learning algorithm using sentiment analysis to find the accuracy
 
- 6) Deployed the models using Streamlit
+6) Deployed the models using Streamlit
 
 
 **Analyzed Unit**
