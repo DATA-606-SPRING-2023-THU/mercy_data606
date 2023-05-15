@@ -100,8 +100,7 @@ But Netflix streams only movies and tv shows with full customer satifaction and 
 
 **Deployment**
 
-Deployed the models using a open source cloud called Streamlit
-
+• Deployed the models using a open source cloud called Streamlit
 
 
 **Reference**
