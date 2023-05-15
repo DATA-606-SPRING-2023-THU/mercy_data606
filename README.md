@@ -8,7 +8,7 @@
 
 **Abstract**
 
-In this present era, the amount of streaming video in OTT platforms are drastically increasing. Hence it should not be a struggle for the users to search an interesting movie or tv show. This problem can be solved only by making strong recommendation system. Therefore, this project is an attempt to build a robust recommendation system using cosine similary, collaborative filtering techniques and someother Machine learning algorithms by Preprocessing data with Stemming, Vectorization and Tokenization techniques. In addition to that, Sentiment Analysis on reviews had been done to analyze users sentiments to the movies. And sucessfuly built recommendation system which recommends the very close similar movies to the users. The important variables used from the dataset to recommend movies are, Description, Genres, Ratings, Director and cast.
+In this present era, the amount of streaming videos in OTT platforms are drastically increasing. Hence it should not be a struggle for the users to search an interesting movie or tv show. This problem can be solved only by making strong recommendation system. Therefore, this project is an attempt to build a robust recommendation system using cosine similary, collaborative filtering techniques and someother Machine learning algorithms by Preprocessing data with Stemming, Vectorization and Tokenization techniques. In addition to that, Sentiment Analysis on reviews had been done to analyze users sentiments to the movies. And sucessfuly built recommendation system which recommends the very close similar movies to the users. The important variables used from the dataset to recommend movies are, Description, Genres, Ratings, Director and cast.
 
 
 **Introduction**
