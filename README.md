@@ -103,12 +103,13 @@ But Netflix streams only movies and tv shows with full customer satifaction and 
 Deployed the models using Streamlit
 
 
+
 **Reference**
 
-https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7975207
+i) https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7975207
 
-https://link.springer.com/chapter/10.1007/978-1-4899-7637-6_11
+ii) https://link.springer.com/chapter/10.1007/978-1-4899-7637-6_11
 
-http://www.few.vu.nl/~sbhulai/papers/paper-fernandez.pdf
+iii) http://www.few.vu.nl/~sbhulai/papers/paper-fernandez.pdf
 
-https://www-cs.stanford.edu/people/nipunb/CS345a.pdf
+iv) https://www-cs.stanford.edu/people/nipunb/CS345a.pdf
