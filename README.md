@@ -102,6 +102,12 @@ But Netflix streams only movies and tv shows with full customer satifaction and 
 
 • Deployed the models using a open source cloud called Streamlit
 
+# Installing Procedure
+
+Copy it
+
+Clone : https://github.com/DATA-606-SPRING-2023-THU/mercy_data606.git
+
 # Youtube link
 
 https://youtu.be/_mtUbHRN7u4
