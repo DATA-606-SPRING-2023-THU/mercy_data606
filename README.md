@@ -6,12 +6,12 @@
   
 # Netflix Recommendation System
 
-**Abstract**
+# Abstract
 
 In this present era, the amount of streaming videos in OTT platforms are drastically increasing. Hence it should not be a struggle for the users to search an interesting movie or tv show. This problem can be solved only by making strong recommendation system. Therefore, this project is an attempt to build a robust recommendation system using cosine similary, collaborative filtering techniques and someother Machine learning algorithms by Preprocessing data with Stemming, Vectorization and Tokenization techniques. In addition to that, Sentiment Analysis on reviews had been done to analyze users sentiments to the movies. And sucessfuly built recommendation system which recommends the very close similar movies to the users. The important variables used from the dataset to recommend movies are, Description, Genres, Ratings, Director and cast.
 
 
-**Introduction**
+# Introduction
 
 Netflix was found in 1998 and still maintains first place in the OTT market. In the past days, people used DVD to watch movies, now we watch through
 online streaming. Growth of Technologies and innovations in every field help people in various ways. Hence decided to analyze netflix recommendation engine because 
@@ -21,7 +21,7 @@ There are so many entertaining websites in this world. For example, Amazon is a 
 But Netflix streams only movies and tv shows with full customer satifaction and this got my attention. Because they carefully analyze reviews and ratings from the users.  
 
 
-**Data source**
+# Data source
 
 •	My dataset was taken from DataWorld
 
@@ -34,7 +34,7 @@ But Netflix streams only movies and tv shows with full customer satifaction and 
 • There movies and tv shows from 1947 to 2021.
 
 
-**Data Description**
+# Data Description
 
 •	Show_id - Unique Id for movies
 
@@ -61,7 +61,7 @@ But Netflix streams only movies and tv shows with full customer satifaction and 
 •	Description - Explains shortly about the movie
 
 
-**Methodology**
+# Methodology
 
 1) Cleaned data and Performed EDA to analyze the dataset
 
@@ -76,7 +76,7 @@ But Netflix streams only movies and tv shows with full customer satifaction and 
 6) Deployed the models using Streamlit
 
 
-**Analyzed Unit**
+# Analyzed Unit
 
 •	Description
 
@@ -89,7 +89,7 @@ But Netflix streams only movies and tv shows with full customer satifaction and 
 •	cast 
 
 
-**Techniques/models**
+# Techniques/models
 
 •	KNN clustering
 
@@ -98,20 +98,20 @@ But Netflix streams only movies and tv shows with full customer satifaction and 
 •	Cosine similarity
 
 
-**Deployment**
+# Deployment
 
 • Deployed the models using a open source cloud called Streamlit
 
-**Youtube link**
+# Youtube link
 
 https://youtu.be/_mtUbHRN7u4
 
-**Presentation link**
+# Presentation link
 
 https://github.com/DATA-606-SPRING-2023-THU/mercy_data606/blob/main/Capstone_ppt.pptx
 
 
-**Reference**
+# Reference
 
 i) https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7975207
 
