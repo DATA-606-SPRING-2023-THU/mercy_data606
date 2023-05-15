@@ -10,14 +10,16 @@
 
 In this present era, the amount of streaming video in OTT platforms are drastically increasing. Hence it should not be a struggle for the users to search an interesting movie or tv show. This problem can be solved only by making strong recommendation system. Therefore, this project is an attempt to build a robust recommendation system using cosine similary, collaborative filtering techniques and someother Machine learning algorithms by Preprocessing data with Stemming, Vectorization and Tokenization techniques. In addition to that, Sentiment Analysis on reviews had been done to analyze users sentiments to the movies. And sucessfuly built recommendation system which recommends the very close similar movies to the users. The important variables used from the dataset to recommend movies are, Description, Genres, Ratings, Director and cast.
 
+
 **Introduction**
 
 Netflix was found in 1998 and still maintains first place in the OTT market. In the past days, people used DVD to watch movies, now we watch through
-online streaming. Growth of Technologies and innovations in every field help people in various ways. I chose to analyze netflix recommendation engine because 
+online streaming. Growth of Technologies and innovations in every field help people in various ways. Hence decided to analyze netflix recommendation engine because 
 of its unique algorithm. It is the key player of the success of netflix which keeps them going.
 
 There are so many entertaining websites in this world. For example, Amazon is a platform for different fields like AWS, prime video, Amazon music, shopping etc.
-But Netflix streams only movies and tv shows with full customer satifaction and this got my attention. I am too eager to analyze the netflix recommendation engine and to check its key to success.
+But Netflix streams only movies and tv shows with full customer satifaction and this got my attention. Because they carefully analyze reviews and ratings from the users.  
+
 
 **Data source**
 
@@ -73,7 +75,8 @@ But Netflix streams only movies and tv shows with full customer satifaction and 
 
 6)Deployed the models using Streamlit
 
-**Unit of analyze**
+
+**Analyzed Unit**
 
 •	Description
 
@@ -85,6 +88,7 @@ But Netflix streams only movies and tv shows with full customer satifaction and 
 
 •	Actors
 
+
 **Techniques/models**
 
 •	KNN clustering
@@ -92,6 +96,7 @@ But Netflix streams only movies and tv shows with full customer satifaction and 
 •	Naive Bayes
 
 •	Cosine similarity
+
 
 **Deployment**
 
