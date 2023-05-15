@@ -86,7 +86,7 @@ But Netflix streams only movies and tv shows with full customer satifaction and 
 
 •	Directors
 
-•	cast and crew
+•	cast 
 
 
 **Techniques/models**
