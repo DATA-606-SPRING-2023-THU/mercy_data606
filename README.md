@@ -118,7 +118,7 @@ Deploy it using streamlit by installing following pakages
 
 https://youtu.be/_mtUbHRN7u4
 
-# Presentation link
+# Project ppt link
 
 https://github.com/DATA-606-SPRING-2023-THU/mercy_data606/blob/main/docs/Capstone_ppt.pdf
 
