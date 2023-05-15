@@ -125,10 +125,9 @@ https://github.com/DATA-606-SPRING-2023-THU/mercy_data606/blob/main/docs/Capston
 
 # Reference
 
-i) https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7975207
+i) A. Chauhan, D. Nagar and P. Chaudhary, "Movie Recommender system using Sentiment Analysis," 2021 International Conference on Innovative Practices in Technology and Management (ICIPTM), Noida, India, 2021, pp. 190-193, doi: 10.1109/ICIPTM52218.2021.9388340.
 
-ii) https://link.springer.com/chapter/10.1007/978-1-4899-7637-6_11
+ii) Pajkovic Niko. 2021. “Algorithms and Taste-Making: Exposing the Netflix Recommender System’s Operational Logics.” Convergence: The International Journal of Research into New Media Technologies 28: 214–35.
 
-iii) http://www.few.vu.nl/~sbhulai/papers/paper-fernandez.pdf
+iii) Agner, L., Necyk, B., Renzi, A. (2020). Recommendation Systems and Machine Learning: Mapping the User Experience. In: Marcus, A., Rosenzweig, E. (eds) Design, User Experience, and Usability. Design for Contemporary Interactive Environments. HCII 2020. Lecture Notes in Computer Science(), vol 12201. Springer, Cham. https://doi.org/10.1007/978-3-030-49760-6_1
 
-iv) https://www-cs.stanford.edu/people/nipunb/CS345a.pdf
