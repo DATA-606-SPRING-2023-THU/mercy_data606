@@ -104,9 +104,13 @@ But Netflix streams only movies and tv shows with full customer satifaction and 
 
 # Installing Procedure
 
-Copy it
+Here is the copyof my repository 
 
-Clone : https://github.com/DATA-606-SPRING-2023-THU/mercy_data606.git
+https://github.com/DATA-606-SPRING-2023-THU/mercy_data606.git
+ 
+Deploy it using streamlit by installing following pakages
+
+
 
 # Youtube link
 
