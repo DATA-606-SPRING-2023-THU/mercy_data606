@@ -104,9 +104,9 @@ But Netflix streams only movies and tv shows with full customer satifaction and 
 
 # Installing Procedure
 
-Here is the copyof my repository 
+download the copy of my file
 
-https://github.com/DATA-606-SPRING-2023-THU/mercy_data606.git
+https://github.com/DATA-606-SPRING-2023-THU/mercy_data606/blob/main/src/Capstone.ipynb
  
 Deploy it using streamlit by installing following pakages
 
