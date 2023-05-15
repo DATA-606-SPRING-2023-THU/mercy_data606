@@ -61,15 +61,15 @@ But Netflix streams only movies and tv shows with full customer satifaction and 
 
 **Unit of analyze**
 
-•	ratings
+•	Description
 
-•	directors
+•	Directors
 
-•	country
+•	Ratings
 
-•	genre
+•	Genre
 
-•	actors
+•	Actors
 
 **Techniques/models**
 
