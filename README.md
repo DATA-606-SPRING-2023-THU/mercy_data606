@@ -80,13 +80,13 @@ But Netflix streams only movies and tv shows with full customer satifaction and 
 
 •	Description
 
+• Ratings
+
+•	Genres
+
 •	Directors
 
-•	Ratings
-
-•	Genre
-
-•	Actors
+•	cast and crew
 
 
 **Techniques/models**
